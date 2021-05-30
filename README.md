@@ -1,9 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Miguel Cruz!
 
-**miguelangelcruzA/miguelangelcruzA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on web applications.
 - 🌱 I’m currently learning different tools.
 - 👯 I’m looking to collaborate in a company where can I participate in an agile enviroment making amazing things.
