@@ -14,8 +14,19 @@
 ---
 ---
 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <enter your name>!
+
+![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)
+
+<your_bio>
+
+---
+
+
+
+
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<miguelangelcruzA>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<miguelangelcruzA>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
