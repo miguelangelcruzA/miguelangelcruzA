@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Miguel Cruz!
 
 - 🔭 I’m currently working on web applications.
-- 🌱 I’m currently learning different tools.
-- 👯 I’m looking to collaborate in a company where can I participate in an agile enviroment making amazing things.
+- 🌱 I’m currently learning Spring and Angular.
+- 👯 I’m looking for an opportunity .
 - 🤔 I’m looking for help with a job.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
