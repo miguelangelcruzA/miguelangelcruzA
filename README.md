@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Spring and Angular as well as improving my programming skills.
 - 🎯 I’m looking for an opportunity to collaborate with an IT company and gain experience creating innovation solutions.
 - 🥅 2021/2022 Goals: Introduce myself to the world of software development.
-- 📫 Contact me: adolfo.pe97@gmail.com
 - 🤝🏻Connect with me: www.linkedin.com/in/miguel-angel-cruz-acosta/
 
 ---
