@@ -9,21 +9,9 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power Bi Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="Jquery Logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power Bi Logo" width="40" height="40"/>    <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="Jquery Logo" width="40" height="40"/>
 
 ---
----
-
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <enter your name>!
-
-![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)
-
-<your_bio>
-
----
-
-
-
 
 ## &#x1f4c8; My GitHub Stats
 
