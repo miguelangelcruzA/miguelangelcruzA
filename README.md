@@ -1,15 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Miguel Cruz!
 
 - 🌱 I’m currently learning Spring and Angular as well as improving my programming skills.
-- 👯 I’m looking for an opportunity to collaborate with an IT company and gain experience creating innovation solutions.
+- 🎯 I’m looking for an opportunity to collaborate with an IT company and gain experience creating innovation solutions.
 - 🥅 2021/2022 Goals: Introduce myself to the world of software development.
-- ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
+- 📫 Contact me: adolfo.pe97@gmail.com
+- 🤝🏻Connect with me: www.linkedin.com/in/miguel-angel-cruz-acosta/
 
 ---
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/>    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power Bi Logo" width="40" height="40"/>    <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="Jquery Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="30" height="30"/>   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="30" height="30"/>    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="30" height="30"/>   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="30" height="30"/>   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power Bi Logo" width="30" height="30"/>    <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="Jquery Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="30" height="30"/>
 
 ---
 
