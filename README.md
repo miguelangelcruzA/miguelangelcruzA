@@ -18,3 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/MiguelAC"><img src="https://api.daily.dev/devcards/d91124e7622b4643be900f4fc2b55cf0.png?r=76y" width="400" alt="Miguel Angel's Dev Card"/></a>
