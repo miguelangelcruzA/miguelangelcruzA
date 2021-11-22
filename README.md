@@ -19,4 +19,4 @@
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/MiguelAC"><img src="https://api.daily.dev/devcards/d91124e7622b4643be900f4fc2b55cf0.png?r=76y" width="400" alt="Miguel Angel's Dev Card"/></a>
+<a href="https://app.daily.dev/MiguelAC"><img src="https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/devcard.svg" width="400" alt="Miguel Angel's Dev Card"/></a>
