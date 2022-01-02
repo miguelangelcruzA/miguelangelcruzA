@@ -1,4 +1,9 @@
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Miguel Cruz!
+
+
+![banner](https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/banner.jpg?raw=true)
+
 
 - 🌱 I’m currently learning Spring and Angular as well as improving my programming skills.
 - 🎯 I’m looking for an opportunity to collaborate with an IT company and gain experience creating innovation solutions.
