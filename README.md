@@ -1,11 +1,10 @@
 ![banner](https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/banner_principal.gif)
 
+![](https://komarev.com/ghpvc/?username=miguelangelcruzA&label=PROFILE+VIEWS)
 
 I'm a computer system engineer working as a backend developer using **Java** living in **Mexico**. My fist real world experience in the software industry it was working with the LAMP stack during my estance in the university.
 
 On the other hand I enjoy to learn everything related with web technologies and to solving problems that can help people to make their work easier. 
-
-
 
 
 ---
@@ -35,6 +34,7 @@ On the other hand I enjoy to learn everything related with web technologies and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
  ### Education
@@ -47,8 +47,6 @@ On the other hand I enjoy to learn everything related with web technologies and 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/MiguelAC"><img src="https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/devcard.svg" width="400" alt="Miguel Angel's Dev Card"/></a>
