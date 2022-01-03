@@ -46,7 +46,5 @@ On the other hand I enjoy to learn everything related with web technologies and 
 ---
 
 ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://app.daily.dev/MiguelAC"><img src="https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/devcard.svg" width="400" alt="Miguel Angel's Dev Card"/></a>
+<a href="https://app.daily.dev/MiguelAC"><img src="https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/devcard.svg" width="400" alt="Miguel Angel's Dev Card"/></a><img src="https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangelcruzA&theme=dark" width="48%">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
