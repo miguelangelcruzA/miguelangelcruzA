@@ -1,20 +1,40 @@
-
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Miguel Cruz!
-
-
-![banner](https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/banner.jpg?raw=true)
+![banner](https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/banner_principal.gif)
 
 
-- 🌱 I’m currently learning Spring and Angular as well as improving my programming skills.
-- 🎯 I’m looking for an opportunity to collaborate with an IT company and gain experience creating innovation solutions.
-- 🥅 2021/2022 Goals: Introduce myself to the world of software development.
-- 🤝🏻Connect with me in linkedin: [Here](https://www.linkedin.com/in/miguel-angel-cruz-acosta/)
+I'm a computer system engineer working as a backend developer using **Java** living in **Mexico**. My fist real world experience in the software industry it was working with the LAMP stack during my estance in the university.
+
+On the other hand I enjoy to learn everything related with web technologies and to solving problems that can help people to make their work easier. 
+
+
+
 
 ---
 
-🧰 Toolbox
+- 🌱 I’m currently working as a backend developer.
+- 🎯 I’m currently learning react and node js.
+- 🥅 2022/2023 Goals: Get a job as a software developer in japan or USA.
+- 🤝 Connect with me in linkedin: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-cruz-acosta/)
+- ❓  Ask me: [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mangel_cruz_97)
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/>&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/> &nbsp;&nbsp;&nbsp;   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="40" height="40" style="display:inline-block; padding:10px" />&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/> &nbsp;&nbsp;&nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="40" height="40"/> &nbsp;&nbsp;&nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power Bi Logo" width="40" height="40"/> &nbsp;&nbsp;&nbsp;   <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="Jquery Logo" width="40" height="40"/>&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="40" height="40"/>
+---
+
+🧰 Technologies Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 
 ---
 
