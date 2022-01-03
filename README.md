@@ -11,7 +11,7 @@ On the other hand I enjoy to learn everything related with web technologies and 
 
 - 🌱 I’m currently working as a backend developer.
 - 🎯 I’m currently learning react and node js.
-- 🥅 2022/2023 Goals: Get a job as a software developer in japan or USA.
+- 🥅 2022/2023 Goals: Get a job as a software developer in japan [:jp:] or USA [:us:].
 - 🤝 Connect with me in linkedin: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-cruz-acosta/)
 - ❓  Ask me: [![Twitter](https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mangel_cruz_97)
 
@@ -46,5 +46,7 @@ On the other hand I enjoy to learn everything related with web technologies and 
 ---
 
 ## &#x1f4c8; My GitHub Stats
-<a href="https://app.daily.dev/MiguelAC"><img src="https://github.com/miguelangelcruzA/miguelangelcruzA/blob/main/devcard.svg" width="400" alt="Miguel Angel's Dev Card"/></a><img src="https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangelcruzA&theme=dark" width="48%"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<img src="https://github-readme-stats.vercel.app/api?username=miguelangelcruzA&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangelcruzA&theme=dark" width="48%"/>
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangelcruzA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
