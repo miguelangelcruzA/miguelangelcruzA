@@ -14,6 +14,7 @@ On the other hand I enjoy to learn everything related with web technologies and 
 - 🥅 2022/2023 Goals: Get a job as a software developer in japan [:jp:] or USA [:us:].
 - 🤝 Connect with me in linkedin: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-cruz-acosta/)
 - ❓  Ask me anything: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mangel_cruz_97)
+- 🎉 I Enjoy play videogames and watch movies.
 
 ---
 
